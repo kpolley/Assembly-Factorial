@@ -1,6 +1,3 @@
-;Parameter passing via registers PROCEX1.ASM
-;
-; Objective: To show parameter passing via registers.
 ; Input: Requests two integers from the user.
 ; Output: Outputs the sum of the input integers.
 

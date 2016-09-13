@@ -20,13 +20,15 @@ x86:
 
 **Programs in x86:**
 
-* Factorials
+* Factorials: Calculates the factorial of an inputted number. Utilizes parameter passing via registers
 
-* Number of Vowels
+* Number of Vowels: Prints the number of times each vowel appears in a string
 
 **Programs in MIPS:**
 
-* Coming Soon
+* ChartoASCII: Converts an inputted character to it's binary equivalent
+
+* IntAdd: Adds the individual digits of an integer
 
 ## Running the x86 Programs ##
 
