@@ -1,6 +1,6 @@
 # Assembly Language Projects #
 
-This repository contains a variety of assembly language programs written in both x86 and MIPS architecture. The difference between x86 and ARM architecture is that x86 is Complex Instruction Set Computing (CISC) while ARM is Reduced Instruction Set Computing (RISC). 
+This repository contains a variety of assembly language programs written in both x86 and MIPS architecture. The difference between x86 and MIPS architecture is that x86 is Complex Instruction Set Computing (CISC) while ARM is Reduced Instruction Set Computing (RISC). 
 
 MIPS: 
 
@@ -31,17 +31,13 @@ x86:
 ## Running the x86 Programs ##
 
 In linux, install NAMS:
-
-
 ```
-#!bash
 
 $ sudo apt-get install nasm
 ```
 
 Go to the directory of the downloaded or forked project and run the make file. Finally, run the program in terminal
 ```
-#!bash
 
 $ make
 ...
