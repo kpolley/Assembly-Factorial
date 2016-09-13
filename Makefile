@@ -1,5 +1,5 @@
 ######################
-PROJECT = labthree
+PROJECT = Factorial
 ######################
 
 
