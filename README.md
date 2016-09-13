@@ -32,13 +32,11 @@ x86:
 
 In linux, install NAMS:
 ```
-
 $ sudo apt-get install nasm
 ```
 
 Go to the directory of the downloaded or forked project and run the make file. Finally, run the program in terminal
 ```
-
 $ make
 ...
 $ ./Vowels
